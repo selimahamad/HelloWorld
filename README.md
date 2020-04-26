@@ -1,2 +1,2 @@
 # HelloWorld
-Prints "Hello, World". This is everyone's first program.
+Prints "Hello, World" in java. This is everyone's first program.

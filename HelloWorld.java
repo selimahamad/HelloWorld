@@ -1,5 +1,3 @@
-package com.neo;
-
 public class HelloWorld {
 
     public static void main(String[] args) {
